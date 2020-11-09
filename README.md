@@ -4,10 +4,10 @@ I am Kumar Ankit, and I am currently pursuing my PhD in the field of Cyber Physi
 My current research interests are in the fields of guidance, navigation and autonomous control of multi-agent systems. Being a PMRF scholar, my project is inclined towards co-ordinated use of drones and ground vehicles for defense and agricultural purposes, aligned to our country's national priorities. Apart from my academics, I like to trek in the mountains and go on long road trips.
 
 Research Advisors:
-* Debasish Ghose
-  Department of Aerospace Engineering
+* Debasish Ghose <br />
+  Department of Aerospace Engineering <br />
   IISc Bangalore
-* Shishir N.Y. Kolathaya
-  Department of Computer Science and Automation
+* Shishir N.Y. Kolathaya <br />
+  Department of Computer Science and Automation <br />
   IISc Bangalore
   
