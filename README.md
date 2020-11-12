@@ -13,4 +13,4 @@ Research Advisors:
   
 <a href="MyCV.pdf">Curriculam Vitae | </a>
 <a href="research_work.html">Research Work | </a>
-<a href="coursework.html">Coursework</a>
+<a href="coursework.md">Coursework</a>
