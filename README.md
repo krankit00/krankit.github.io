@@ -11,6 +11,6 @@ Research Advisors:
   Department of Computer Science and Automation <br />
   IISc Bangalore
   
-<a href="MyCV.pdf">Curriculam Vitae</a>
-<a href="research_work.md">Research Work</a>
+<a href="MyCV.pdf">Curriculam Vitae | </a>
+<a href="research_work.md">Research Work | </a>
 <a href="coursework.md">Coursework</a>
